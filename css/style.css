@@ -89,6 +89,15 @@ nav, h3 {
     font-weight: lighter;
 }
 
+a, h3 {
+    text-decoration: none;
+    color: white;
+}
+
+a h3:hover {
+    color: #00539E;
+}
+
 header {
     display: flex;
     flex-direction: row;
