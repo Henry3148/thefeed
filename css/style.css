@@ -28,6 +28,7 @@ h2 {
     color: #ffffff;
     font-weight: lighter;
     font-size: 24pt;
+    line-height: 80%;
 }
 
 h4 {
@@ -84,12 +85,12 @@ nav {
     border: 3px solid #1395FF;
 }
 
-nav, h3 {
+nav h3 {
     line-height: 80%;
     font-weight: lighter;
 }
 
-a, h3 {
+a {
     text-decoration: none;
     color: white;
 }
