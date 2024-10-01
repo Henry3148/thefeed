@@ -66,10 +66,14 @@ h1 {
     min-height: 100vh;
 }
 
+.gif {
+    padding-right: 35px;
+}
+
 nav {
     display: flex;
-    width: 169px;
     padding: 10px;
+    width: 175px;
     flex-direction: column;
     align-items: flex-start;
     flex-shrink: 0;
@@ -89,9 +93,8 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    justify-content: space-between;
     align-items: center;
-    max-width: 30%;
+    max-width: 100%;
     margin: 30px;
 }
 
